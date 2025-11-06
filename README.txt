@@ -1,0 +1,2 @@
+1. first run travelTimeSimulation_test.m to simulate travel times from sound speed by eikonal equation.
+2. then run ctReconLaplacianRegularized_true_eikonal.m to reconstruct sound speed from travel times.
